@@ -1,5 +1,5 @@
 <h3>Hey!</h3>
-I'm Victor, Systems Analysis and Development Student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, Biomedical Scientist and Investor. I study with a focus on FullStack and I already have knowledge in the skills seen below.<br>
+I'm Victor, Systems Analysis and Development Student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, Biomedical Scientist and Investor. I study focused on FullStack and I already have knowledge of the skills seen below.
 
 <table align="right">
  <tr><td><a href="README.md"><img src="assets/us-flag.png" height="13"> English</a></td></tr>
