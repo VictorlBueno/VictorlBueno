@@ -1,18 +1,18 @@
 <h3>Hey!</h3>
 I'm Victor, Systems Analysis and Development Student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, Biomedical Scientist and Investor.
 <table align="right">
- <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="assets/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <h3>Skills</h3>
 <div>
-  <img src = "html5.png" alt="HTML5" width = "30px">
-  <img src = "css.png" alt="CSS3" width = "30px">
-  <img src = "javascript.png" alt="JavaScript" width = "30px">
-  <img src = "java.png" alt="Java" width = "30px">
-  <img src = "python.png" alt="Python" width = "30px">
-  <img src = "react.png" alt="React" width = "30px">
-  <img src = "aws.png" alt="React" width = "40px">
+  <img src = "assets/html5.png" alt="HTML5" width = "30px">
+  <img src = "assets/css.png" alt="CSS3" width = "30px">
+  <img src = "assets/javascript.png" alt="JavaScript" width = "30px">
+  <img src = "assets/java.png" alt="Java" width = "30px">
+  <img src = "assets/python.png" alt="Python" width = "30px">
+  <img src = "assets/react.png" alt="React" width = "30px">
+  <img src = "assets/aws.png" alt="React" width = "40px">
  </div>
 
 <h3>Repositories</h3>
