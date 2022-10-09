@@ -12,6 +12,7 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
   <img src = "assets/javascript.png" alt="JavaScript" width = "30px">
   <img src = "assets/java.png" alt="Java" width = "30px">
   <img src = "assets/python.png" alt="Python" width = "30px">
+  <img src = "assets/node.png" alt="Node" width = "26px">
   <img src = "assets/react.png" alt="React" width = "30px">
   <img src = "assets/aws.png" alt="React" width = "40px">
  </div>
