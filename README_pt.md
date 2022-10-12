@@ -1,5 +1,5 @@
 <h3>Olá!</h3>
-Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, Biomédico e Investidor. Estudo com foco em FullStack e já possuo conhecimento nas habilidades vistas abaixo.<br>
+Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, Biomédico e Investidor. Estudo com foco em FullStack e atualmente estou aprimorando meus conhecimentos nas habilidades vistas abaixo.<br>
 
 <table align="right">
 <tr><td><a href="README.md"><img src="assets/us-flag.png" height="13"> English</a></td></tr>
