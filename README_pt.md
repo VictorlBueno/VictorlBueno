@@ -24,6 +24,7 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
 🎮&ensp;Ranking jogos e streamers <a href="https://github.com/VictorlBueno/Top-Games-Streamers" target="_blank"><code>Código</code></a> <a href="https://vlb-top-streamers-games.netlify.app/" target="_blank">Ver</a><br>
 ✨&ensp;Círculo de Carregamento <a href="https://github.com/VictorlBueno/Loading-Circle" target="_blank"><code>Código</code></a> <a href="https://vlb-loading-circle.netlify.app/" target="_blank">Ver</a><br>
 🦠&ensp;Virtual Test for COVID-19 <a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19" target="_blank"><code>Código</code></a><br>
+👨‍💻&ensp;Criptografia de texto <a href="https://github.com/VictorlBueno/encrypt" target="_blank"><code>Código</code></a><br>
 ✨&ensp;Menu Neon <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Código</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">Ver</a>
 
 #
