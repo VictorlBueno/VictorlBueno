@@ -19,13 +19,12 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
 
 <h3>Repositories</h3>
 🎮&ensp;Top 10 Games and Streamers <a href="https://github.com/VictorlBueno/Top-Games-Streamers" target="_blank"><code>Code</code></a> <a href="https://vlb-top-streamers-games.netlify.app/" target="_blank">View</a><br>
+👨‍💻&ensp;Encrypt and Decrypt Text <a href="https://github.com/VictorlBueno/encrypt" target="_blank"><code>Code</code></a><a href="https://vlb-encrypt.netlify.app/" target="_blank"> View</a><br>
 ✨&ensp;Loaders Neumorphism <a href="https://github.com/VictorlBueno/Loaders-Neumorphism" target="_blank"><code>Code</code></a> <a href="https://vlb-loaders-neumorphism.netlify.app/" target="_blank">View</a><br>
 🌄&ensp;Parallax Scroll Effect <a href="https://github.com/VictorlBueno/Parallax-Scroll-Effect" target="_blank"><code>Code</code></a> <a href="https://vlb-parallax-scroll-effect.netlify.app/" target="_blank">View</a><br>
 🔠&ensp;Word Rule Game <a href="https://github.com/VictorlBueno/Word-Rule-Game" target="_blank"><code>Code</code></a> <a href="https://vlb-word-rule-game.netlify.app/" target="_blank">View</a><br>
 ✨&ensp;Loading Circle <a href="https://github.com/VictorlBueno/Loading-Circle" target="_blank"><code>Code</code></a> <a href="https://vlb-loading-circle.netlify.app/" target="_blank">View</a><br>
-✨&ensp;Stylish Menu <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Code</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">View</a>
-
-👨‍💻&ensp;Encrypt and Decrypt Text <a href="https://github.com/VictorlBueno/encrypt" target="_blank"><code>Code</code></a><br>
+✨&ensp;Stylish Menu <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Code</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">View</a><br>
 🦠&ensp;Virtual Test for COVID-19 <a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19" target="_blank"><code>Code</code></a><br>
 
 #
