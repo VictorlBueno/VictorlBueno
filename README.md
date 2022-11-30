@@ -7,14 +7,15 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
 </table>
 <h3>Skills</h3>
 <div>
-  <img src = "assets/html5.png" alt="HTML5" width = "30px">
-  <img src = "assets/css.png" alt="CSS3" width = "30px">
-  <img src = "assets/javascript.png" alt="JavaScript" width = "30px">
-  <img src = "assets/java.png" alt="Java" width = "30px">
-  <img src = "assets/python.png" alt="Python" width = "30px">
-  <img src = "assets/react.png" alt="React" width = "30px">
-  <img src = "assets/node.png" alt="Node" width = "26px">
-  <img src = "assets/aws.png" alt="React" width = "40px">
+  <img src = "assets/html5.png" alt="HTML5" height = "30px">
+  <img src = "assets/css.png" alt="CSS3" height = "30px">
+  <img src = "assets/javascript.png" alt="JavaScript" height = "30px">
+  <img src = "assets/java.png" alt="Java" height = "30px">
+  <img src = "assets/python.png" alt="Python" height = "30px">
+  <img src = "assets/react.png" alt="React" height = "30px">
+  <img src = "assets/bootstrap.png" alt="React" height = "30px">
+  <img src = "assets/node.png" alt="Node" height = "30px">
+  <img src = "assets/aws.png" alt="React" height = "30px">
  </div>
 
 <h3>Repositories</h3>
