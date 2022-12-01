@@ -29,6 +29,13 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
 👨‍💻&ensp;Criptografia de texto <a href="https://github.com/VictorlBueno/encrypt" target="_blank"><code>Código</code></a><br>
 ✨&ensp;Menu Neon <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Código</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">Ver</a>
 
+<h3>Estatísticas</h3>
+<div>
+<a href="https://github.com/victorlbueno">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 #
 <h6>Redes Sociais&ensp;&ensp;&ensp;&ensp;
 <a href="https://linkedin.com/in/victorlbueno/" target="_blank">LinkedIn</a>&ensp;&ensp;•&ensp;&ensp;
