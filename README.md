@@ -29,6 +29,13 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
 ✨&ensp;Stylish Menu <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Code</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">View</a><br>
 🦠&ensp;Test for COVID-19 <a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19" target="_blank"><code>Code</code></a><br>
 
+<h3>Stats</h3>
+<div>
+<a href="https://github.com/victorlbueno">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
 <a href="https://linkedin.com/in/victorlbueno/" target="_blank">LinkedIn</a>&ensp;&ensp;•&ensp;&ensp;
