@@ -20,13 +20,14 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
 
 <h3>Repositórios</h3>
 🌄&ensp;Efeito de rolagem de Parallax <a href="https://github.com/VictorlBueno/Parallax-Scroll-Effect" target="_blank"><code>Código</code></a> <a href="https://vlb-parallax-scroll-effect.netlify.app/" target="_blank">Ver</a><br>
-🛹&ensp;Website Para Marca de Skate <a href="https://github.com/VictorlBueno/skate-brand" target="_blank"><code>Code</code></a><a href="https://vlb-skate-brand.netlify.app/" target="_blank"> View</a><br>
+🛹&ensp;Website Para Marca de Skate <a href="https://github.com/VictorlBueno/skate-brand" target="_blank"><code>Code</code></a><a href="https://vlb-skate-brand.netlify.app/" target="_blank"> Ver</a><br>
 ✨&ensp;Carregadores Neumorfismo <a href="https://github.com/VictorlBueno/Loaders-Neumorphism" target="_blank"><code>Código</code></a> <a href="https://vlb-loaders-neumorphism.netlify.app/" target="_blank">Ver</a><br>
 🔠&ensp;Jogo de Regras de Palavras <a href="https://github.com/VictorlBueno/Word-Rule-Game" target="_blank"><code>Código</code></a> <a href="https://vlb-word-rule-game.netlify.app/" target="_blank">Ver</a><br>
 🎮&ensp;Ranking jogos e streamers <a href="https://github.com/VictorlBueno/Top-Games-Streamers" target="_blank"><code>Código</code></a> <a href="https://vlb-top-streamers-games.netlify.app/" target="_blank">Ver</a><br>
 ✨&ensp;Círculo de Carregamento <a href="https://github.com/VictorlBueno/Loading-Circle" target="_blank"><code>Código</code></a> <a href="https://vlb-loading-circle.netlify.app/" target="_blank">Ver</a><br>
 🦠&ensp;Virtual Test for COVID-19 <a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19" target="_blank"><code>Código</code></a><br>
-👨‍💻&ensp;Criptografia de texto <a href="https://github.com/VictorlBueno/encrypt" target="_blank"><code>Código</code></a><br>
+👨‍💻&ensp;Criptografia de texto <a href="https://github.com/VictorlBueno/encrypt" target="_blank"><code>Código</code></a><a href="https://vlb-encrypt.netlify.app/" target="_blank"> Ver</a><br>
+🍌&ensp;Site em Bootstrap <a href="https://github.com/VictorlBueno/fruta-fruto" target="_blank"><code>Código</code></a> <a href="https://vlb-fruta-fruto.netlify.app" target="_blank"> Ver</a><br>
 ✨&ensp;Menu Neon <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Código</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">Ver</a>
 
 <h3>Estatísticas</h3>
