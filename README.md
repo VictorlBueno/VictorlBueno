@@ -24,6 +24,7 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
 🛹&ensp;Website for Skate Brand <a href="https://github.com/VictorlBueno/skate-brand" target="_blank"><code>Code</code></a><a href="https://vlb-skate-brand.netlify.app/" target="_blank"> View</a><br>
 ✨&ensp;Loaders Neumorphism <a href="https://github.com/VictorlBueno/Loaders-Neumorphism" target="_blank"><code>Code</code></a> <a href="https://vlb-loaders-neumorphism.netlify.app/" target="_blank">View</a><br>
 🌄&ensp;Parallax Scroll Effect <a href="https://github.com/VictorlBueno/Parallax-Scroll-Effect" target="_blank"><code>Code</code></a> <a href="https://vlb-parallax-scroll-effect.netlify.app/" target="_blank">View</a><br>
+🍌&ensp;Bootstrap Website <a href="https://github.com/VictorlBueno/fruta-fruto" target="_blank"><code>Code</code></a><a href="https://vlb-fruta-fruto.netlify.app" target="_blank"> View</a><br>
 🔠&ensp;Word Rule Game <a href="https://github.com/VictorlBueno/Word-Rule-Game" target="_blank"><code>Code</code></a> <a href="https://vlb-word-rule-game.netlify.app/" target="_blank">View</a><br>
 ✨&ensp;Loading Circle <a href="https://github.com/VictorlBueno/Loading-Circle" target="_blank"><code>Code</code></a> <a href="https://vlb-loading-circle.netlify.app/" target="_blank">View</a><br>
 ✨&ensp;Stylish Menu <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Code</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">View</a><br>
