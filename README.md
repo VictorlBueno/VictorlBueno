@@ -67,7 +67,7 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
    <td><a href="https://vlb-stylish-menu.netlify.app/" target="_blank">Web View</a></td>
  </tr>
  <tr>
-   <td>🦠&ensp;Test for COVID-1</td>
+   <td>🦠&ensp;Test for COVID-19</td>
    <td><a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19" target="_blank">Code</a></td>
  </tr>
 </table>
