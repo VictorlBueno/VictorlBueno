@@ -1,5 +1,5 @@
 <h3>Olá!</h3>
-Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, Biomédico e Investidor. Atualmente estou aprimorando meus conhecimentos nas habilidades vistas abaixo.<br>
+Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>, Biomédico e Investidor. Atualmente estou aprimorando meus conhecimentos nas habilidades abaixo, e em breve outras tecnologias.<br>
 
 <table align="right">
 <tr><td><a href="README.md"><img src="assets/us-flag.png" height="13"> English</a></td></tr>
@@ -20,6 +20,10 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
 
 <h3>Repositórios</h3>
 <table>
+   <tr>
+   <th>Projeto</th>
+   <th colspan="2">Visualização</th>
+  </tr>
   <tr>
    <td>👨‍💻&ensp;Criptografia de texto</td>
    <td><a href="https://github.com/VictorlBueno/encrypt" target="_blank">Código</a></td>
