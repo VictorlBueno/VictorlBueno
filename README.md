@@ -22,6 +22,10 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
 <h3>Repositories</h3>
 <table>
   <tr>
+   <th>Project</th>
+   <th colspan="2">Visualization</th>
+  </tr>
+  <tr>
    <td>👨‍💻&ensp;Encrypt and Decrypt Text</td>
    <td><a href="https://github.com/VictorlBueno/encrypt" target="_blank">Code</a></td>
    <td><a href="https://vlb-encrypt.netlify.app/" target="_blank">Web View</a></td>
