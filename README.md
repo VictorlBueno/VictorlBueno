@@ -6,6 +6,7 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
  <tr><td><a href="README_pt.md"><img src="assets/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 <h3>Skills</h3>
+
 <div>
   <img src = "assets/html5.png" alt="HTML5" height = "30px">
   <img src = "assets/css.png" alt="CSS3" height = "30px">
@@ -19,16 +20,57 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
  </div>
 
 <h3>Repositories</h3>
-🎮&ensp;Top 10 Games and Streamers <a href="https://github.com/VictorlBueno/Top-Games-Streamers" target="_blank"><code>Code</code></a> <a href="https://vlb-top-streamers-games.netlify.app/" target="_blank">View</a><br>
-👨‍💻&ensp;Encrypt and Decrypt Text <a href="https://github.com/VictorlBueno/encrypt" target="_blank"><code>Code</code></a><a href="https://vlb-encrypt.netlify.app/" target="_blank"> View</a><br>
-🛹&ensp;Website for Skate Brand <a href="https://github.com/VictorlBueno/skate-brand" target="_blank"><code>Code</code></a><a href="https://vlb-skate-brand.netlify.app/" target="_blank"> View</a><br>
-✨&ensp;Loaders Neumorphism <a href="https://github.com/VictorlBueno/Loaders-Neumorphism" target="_blank"><code>Code</code></a> <a href="https://vlb-loaders-neumorphism.netlify.app/" target="_blank">View</a><br>
-🌄&ensp;Parallax Scroll Effect <a href="https://github.com/VictorlBueno/Parallax-Scroll-Effect" target="_blank"><code>Code</code></a> <a href="https://vlb-parallax-scroll-effect.netlify.app/" target="_blank">View</a><br>
-🍌&ensp;Bootstrap Website <a href="https://github.com/VictorlBueno/fruta-fruto" target="_blank"><code>Code</code></a><a href="https://vlb-fruta-fruto.netlify.app" target="_blank"> View</a><br>
-🔠&ensp;Word Rule Game <a href="https://github.com/VictorlBueno/Word-Rule-Game" target="_blank"><code>Code</code></a> <a href="https://vlb-word-rule-game.netlify.app/" target="_blank">View</a><br>
-✨&ensp;Loading Circle <a href="https://github.com/VictorlBueno/Loading-Circle" target="_blank"><code>Code</code></a> <a href="https://vlb-loading-circle.netlify.app/" target="_blank">View</a><br>
-✨&ensp;Stylish Menu <a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank"><code>Code</code></a> <a href="https://vlb-stylish-menu.netlify.app/" target="_blank">View</a><br>
-🦠&ensp;Test for COVID-19 <a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19" target="_blank"><code>Code</code></a><br>
+<table>
+  <tr>
+   <td>👨‍💻&ensp;Encrypt and Decrypt Text</td>
+   <td><a href="https://github.com/VictorlBueno/encrypt" target="_blank">Code</a></td>
+   <td><a href="https://vlb-encrypt.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+  <tr>
+   <td>🔠&ensp;Word Rule Game</td>
+   <td><a href="https://github.com/VictorlBueno/Word-Rule-Game" target="_blank">Code</a></td>
+   <td><a href="https://vlb-word-rule-game.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+  <tr>
+   <td>✨&ensp;Loaders Neumorphism</td>
+   <td><a href="https://github.com/VictorlBueno/Loaders-Neumorphism" target="_blank">Code</a></td>
+   <td><a href="https://vlb-loaders-neumorphism.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+  <tr>
+   <td>🛹&ensp;Website for Skate Brand</td>
+   <td><a href="https://github.com/VictorlBueno/skate-brand" target="_blank">Code</a></td>
+   <td><a href="https://vlb-skate-brand.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+ <tr>
+  <td>🎮&ensp;Top 10 Games and Streamers</td>
+  <td><a href="https://github.com/VictorlBueno/Top-Games-Streamers" target="_blank">Code</a></td>
+  <td><a href="https://vlb-top-streamers-games.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+ <tr>
+   <td>🌄&ensp;Parallax Scroll Effect</td>
+   <td><a href="https://github.com/VictorlBueno/Parallax-Scroll-Effect" target="_blank">Code</a></td>
+   <td><a href="https://vlb-parallax-scroll-effect.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+ <tr>
+   <td>🍌&ensp;Bootstrap Website</td>
+   <td><a href="https://github.com/VictorlBueno/fruta-fruto" target="_blank">Code</a></td>
+   <td><a href="https://vlb-fruta-fruto.netlify.app" target="_blank" target="_blank">Web View</a></td>
+ </tr>
+ <tr>
+   <td>✨&ensp;Loading Circle</td>
+   <td><a href="https://github.com/VictorlBueno/Loading-Circle" target="_blank">Code</a></td>
+   <td><a href="https://vlb-loading-circle.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+ <tr>
+   <td>✨&ensp;Stylish Menu</td>
+   <td><a href="https://github.com/VictorlBueno/Stylish-Menu" target="_blank">Code</a></td>
+   <td><a href="https://vlb-stylish-menu.netlify.app/" target="_blank">Web View</a></td>
+ </tr>
+ <tr>
+   <td>🦠&ensp;Test for COVID-1</td>
+   <td><a href="https://github.com/VictorlBueno/Virtual-Test-COVID-19" target="_blank">Code</a></td>
+ </tr>
+</table>
 
 <h3>Stats</h3>
 <a href="https://github.com/victorlbueno">
