@@ -29,6 +29,11 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
    <td><a href="https://github.com/VictorlBueno/encrypt" target="_blank">Código</a></td>
    <td><a href="https://vlb-encrypt.netlify.app/" target="_blank">Ver na Web</a></td>
  </tr>
+   <tr>
+   <td>💰&ensp;Adami - Controle Financeiro</td>
+   <td><a href="https://github.com/VictorlBueno/adami" target="_blank">Code</a></td>
+   <td><a href="https://vlb-adami.netlify.app/login/" target="_blank">Web View</a></td>
+  </tr>
   <tr>
    <td>🔠&ensp;Jogo de Regras de Palavras</td>
    <td><a href="https://github.com/VictorlBueno/Word-Rule-Game" target="_blank">Código</a></td>
