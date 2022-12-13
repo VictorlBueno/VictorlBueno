@@ -26,7 +26,7 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
    <th colspan="2">Visualization</th>
   </tr>
   <tr>
-   <td>👨‍💻&ensp;Encrypt and Decrypt Text</td>
+   <td>👨‍💻&ensp;Encrypt and Decrypt Texts</td>
    <td><a href="https://github.com/VictorlBueno/encrypt" target="_blank">Code</a></td>
    <td><a href="https://vlb-encrypt.netlify.app/" target="_blank">Web View</a></td>
  </tr>
@@ -50,6 +50,12 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
    <td><a href="https://github.com/VictorlBueno/skate-brand" target="_blank">Code</a></td>
    <td><a href="https://vlb-skate-brand.netlify.app/" target="_blank">Web View</a></td>
  </tr>
+   <tr>
+   <td>📚&ensp;Responsive bookstore</td>
+   <td><a href="https://github.com/VictorlBueno/vlbooks" target="_blank">Code</a></td>
+   <td><a href="https://vlb-vlbooks.netlify.app/" target="_blank">Web View</a></td>
+  </tr>
+  <tr>
  <tr>
   <td>🎮&ensp;Top 10 Games and Streamers</td>
   <td><a href="https://github.com/VictorlBueno/Top-Games-Streamers" target="_blank">Code</a></td>
