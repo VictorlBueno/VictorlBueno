@@ -59,6 +59,11 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
    <td><a href="https://github.com/VictorlBueno/Parallax-Scroll-Effect" target="_blank">Código</a></td>
    <td><a href="https://vlb-parallax-scroll-effect.netlify.app/" target="_blank">Ver na Web</a></td>
  </tr>
+  <tr>
+   <td>📚&ensp;Loja de Livros Online</td>
+   <td><a href="https://github.com/VictorlBueno/vlbooks" target="_blank">Código</a></td>
+   <td><a href="https://vlb-vlbooks.netlify.app/" target="_blank">Ver na Web</a></td>
+  </tr>
  <tr>
    <td>🍌&ensp;Site em Bootstrap</td>
    <td><a href="https://github.com/VictorlBueno/fruta-fruto" target="_blank">Código</a></td>
