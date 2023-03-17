@@ -16,7 +16,6 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
   <img src = "assets/react.png" alt="React" height = "30px">
   <img src = "assets/bootstrap.png" alt="Bootstrap" height = "30px">
   <img src = "assets/node.png" alt="Node" height = "30px">
-  <img src = "assets/swift.png" alt="Swiift" height = "30px">
   <img src = "assets/aws.png" alt="aws" height = "30px">
  </div>
 
