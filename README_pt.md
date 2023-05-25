@@ -28,6 +28,10 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
    <td><a href="https://github.com/VictorlBueno/encrypt" target="_blank">Código</a></td>
    <td><a href="https://vlb-encrypt.netlify.app/" target="_blank">Ver na Web</a></td>
  </tr>
+     <tr>
+   <td>🔎&ensp;Validador de SQL</td>
+   <td><a href="https://github.com/VictorlBueno/SQLValidator" target="_blank">Código</a></td>
+  </tr>
    <tr>
    <td>💰&ensp;Adami - Controle Financeiro</td>
    <td><a href="https://github.com/VictorlBueno/adami" target="_blank">Código</a></td>
