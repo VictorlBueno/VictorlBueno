@@ -29,6 +29,10 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
    <td><a href="https://github.com/VictorlBueno/encrypt" target="_blank">Code</a></td>
    <td><a href="https://vlb-encrypt.netlify.app/" target="_blank">Web View</a></td>
  </tr>
+   <tr>
+   <td>🔎&ensp;Portable SQL Validator</td>
+   <td><a href="https://github.com/VictorlBueno/SQLValidator" target="_blank">Code</a></td>
+  </tr>
   <tr>
    <td>💰&ensp;Adami - Control your Finance</td>
    <td><a href="https://github.com/VictorlBueno/adami" target="_blank">Code</a></td>
