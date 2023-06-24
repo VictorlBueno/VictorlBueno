@@ -88,9 +88,6 @@ Sou Victor, estudante de Análise e Desenvolvimento de Sistemas na <a href="http
  </tr>
 </table>
 
-<h3>Estatísticas</h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 #
 <h6>Redes Sociais&ensp;&ensp;&ensp;&ensp;
 <a href="https://linkedin.com/in/victorlbueno/" target="_blank">LinkedIn</a>&ensp;&ensp;•&ensp;&ensp;
