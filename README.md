@@ -90,10 +90,6 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
  </tr>
 </table>
 
-<h3>Stats</h3>
-<a href="https://github.com/victorlbueno">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
 <a href="https://linkedin.com/in/victorlbueno/" target="_blank">LinkedIn</a>&ensp;&ensp;•&ensp;&ensp;
