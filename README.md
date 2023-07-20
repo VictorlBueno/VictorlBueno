@@ -5,7 +5,7 @@ Check out my website!
 www.victor.com.de
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&theme=tokyonight&layout=compact)
 
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
