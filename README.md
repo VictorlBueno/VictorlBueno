@@ -3,6 +3,9 @@ I'm Victor, Systems Analysis and Development Student at <a href="https://www.fia
 <br>
 Check out my website!
 www.victor.com.de
+<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&layout=compact)
 
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
