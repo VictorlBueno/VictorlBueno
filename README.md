@@ -5,8 +5,6 @@ Check out my website!
 www.victor.com.de
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&layout=compact&hide=html&theme=tokyonight)
-
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
 <a href="https://linkedin.com/in/victorlbueno/" target="_blank">LinkedIn</a>&ensp;&ensp;•&ensp;&ensp;
