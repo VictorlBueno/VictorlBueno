@@ -3,7 +3,7 @@ I'm Victor, a Full Stack developer and Systems Analysis and Development Student 
 <br>
 Check out my website!
 www.victor.com.de
-<br><br>
+<br>
 
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
