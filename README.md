@@ -3,7 +3,9 @@ I'm Victor, a Full Stack developer and Systems Analysis and Development Student 
 <br>
 Check out my website!
 www.victor.com.de
-<br>
+<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&hide_progress=true&hide=html&theme=tokyonight)
 
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
