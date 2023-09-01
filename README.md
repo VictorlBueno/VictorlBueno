@@ -1,9 +1,7 @@
 <h3>Hey!</h3>
 I'm Victor, a Full Stack developer and Systems Analysis and Development Student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.<br>
 <br>
-Check out my website!
-www.victor.com.de
-<br><br> 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&hide_progress=true&hide=html&theme=tokyonight)
 
