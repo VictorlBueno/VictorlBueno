@@ -2,7 +2,6 @@
 I'm Victor, a Full Stack developer and Systems Analysis and Development Student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.<br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorlbueno&hide_progress=true&hide=html&theme=tokyonight)
 
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
