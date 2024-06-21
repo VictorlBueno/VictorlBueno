@@ -1,5 +1,5 @@
 <h3>Hey!</h3>
-I'm Victor, a Full Stack developer and Systems Analysis and Development Student at <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>.<br>
+I'm Victor, a Full Stack developer.
 <br>
 
 
