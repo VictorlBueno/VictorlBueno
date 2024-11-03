@@ -1,7 +1,4 @@
 <h3>Hey!</h3>
-I'm Victor, a Full Stack developer.
-<br>
-
 
 #
 <h6>Social Networks&ensp;&ensp;&ensp;&ensp;
